@@ -5,7 +5,7 @@
 #include <cstring>
 
 //Funcion Palindroma
-int palindroma(char palabra[], int ini, int fin);
+int palindroma(char palabra[], int posicionInicial, int posicionFinal);
 
 int main()
 {
